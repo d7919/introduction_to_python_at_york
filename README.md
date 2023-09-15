@@ -3,8 +3,18 @@ A small collection of guided exercises providing an introduction to python for s
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d7919/introduction_to_python_at_york/main)
 
-## Using these resources
+## What is this for?
 
+These resources are not intended to provide a complete introduction to
+all aspects of programming in python, rather they are supposed to
+introduce some of the key concepts/approaches that we will be using
+through several modules. Broadly speaking, by reviewing these
+resources and practicing some of the concepts introduced it is hoped
+that one will be able to read in some data from file, fit a curve to
+this and to produce a well presented plot showing the raw data and the
+fit.
+
+## Using these resources
 
 ### Binder
 
