@@ -42,7 +42,7 @@ source intro/bin/activate
 pip install -r requirements.txt
 ~~~
 
-The preious steps should be a one-off setup. To launch the exercises you can do the following from the `introduction_to_python_at_york` directory:
+The previous steps should be a one-off setup. To launch the exercises you can do the following from the `introduction_to_python_at_york` directory:
 
 ~~~
 source intro/bin/activate
