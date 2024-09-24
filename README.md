@@ -49,4 +49,4 @@ source intro/bin/activate
 jupyter lab
 ~~~
 
-Finally, when you're done you probably want to run `source intro/bin/deactivate`.
+Finally, when you're done you probably want to run `deactivate`.
