@@ -1,5 +1,5 @@
 # Introduction to python at the University of York
-A small collection of guided introductions to python for students studying Computational Plasma Physics at the University of York
+A small collection of guided introductions to python for students studying in the York Plasma Institute at the University of York
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d7919/introduction_to_python_at_york/main)
 
@@ -23,7 +23,7 @@ installing any additional software. Click the "launch | binder" badge
 in the readme or click this link to [open in
 binder](https://mybinder.org/v2/gh/d7919/introduction_to_python_at_york/main). This
 is a web based service which offers the ability to work with python
-through Jupyter notebooks in your browser.
+through Jupyter notebooks in your browser. This may take some time to start up
 
 ### Run locally
 
